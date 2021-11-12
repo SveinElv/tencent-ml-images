@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-12T05:15:46.973Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="L8ql3Y4jIusuaKawSD0w" version="15.7.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-11-12T08:16:34.626Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="cpJpxOgQqLqW7dCJ1L5G" version="15.7.3" type="github" pages="2">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="3338" dy="1898" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -180,7 +180,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kzGxf3r1QoHVGgzrYubH-66" value="Organizations" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="-1150" y="50" width="300" height="130" as="geometry" />
+          <mxGeometry x="-1160" y="50" width="300" height="130" as="geometry" />
         </mxCell>
         <mxCell id="kzGxf3r1QoHVGgzrYubH-67" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="kzGxf3r1QoHVGgzrYubH-66">
           <mxGeometry y="30" width="300" height="30" as="geometry" />
@@ -818,7 +818,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kzGxf3r1QoHVGgzrYubH-272" value="Patent" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="-900" y="990" width="250" height="220" as="geometry" />
+          <mxGeometry x="-1170" y="770" width="250" height="220" as="geometry" />
         </mxCell>
         <mxCell id="kzGxf3r1QoHVGgzrYubH-273" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="kzGxf3r1QoHVGgzrYubH-272">
           <mxGeometry y="30" width="250" height="30" as="geometry" />
@@ -899,7 +899,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kzGxf3r1QoHVGgzrYubH-292" value="Person_Patent_General" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="-620" y="1060" width="180" height="100" as="geometry" />
+          <mxGeometry x="-850" y="840" width="180" height="100" as="geometry" />
         </mxCell>
         <mxCell id="kzGxf3r1QoHVGgzrYubH-293" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="kzGxf3r1QoHVGgzrYubH-292">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
